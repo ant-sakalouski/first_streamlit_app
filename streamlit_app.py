@@ -1,1 +1,3 @@
-print "Hello, snowflake"
+import streamlit
+
+streamlit.title("Hello, snowflake")
